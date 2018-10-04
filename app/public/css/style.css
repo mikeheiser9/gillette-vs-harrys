@@ -22,7 +22,7 @@ font-family: 'Karla', sans-serif !important;
     margin-left: 5%;
     margin-right: 5%;
     margin-top: 15px;
-    font-size: 18px;
+    font-size: 20px;
     border-bottom: 2px solid black;
 }
 
@@ -39,7 +39,7 @@ font-family: 'Karla', sans-serif !important;
     margin-top: 20px;
     margin-left: 5%;
     margin-right: 5%;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .star-row {
@@ -61,6 +61,20 @@ font-family: 'Karla', sans-serif !important;
     margin-left: 35%;
 }
 .harrys-btn:hover {
+    text-decoration: underline;
+}
+
+.bottom-btn {
+    width: 65%;
+    padding: 25px;
+    background-color: red;
+    color: white;
+    font-size: 28px;
+    margin-top: 30px;
+    border-radius: 20px;
+    margin-left: 17%;
+}
+.bottom-btn:hover {
     text-decoration: underline;
 }
 
@@ -120,7 +134,7 @@ font-family: 'Karla', sans-serif !important;
     font-size: 28px;
     margin-left: 5%;
     color: darkblue;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 .list-a {
