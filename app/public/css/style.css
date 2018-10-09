@@ -8,14 +8,36 @@ font-family: 'Karla', sans-serif !important;
     height: 100%;
 }
 
+.border-btm {
+    margin-left: 5% !important;
+    margin-right: 5% !important;
+    border-bottom: 2px solid black;
+}
+
 .pre-intro {
+    font-size: 4vw;
+    font-weight: 800;
     margin-left: 5%;
-    padding: 10px;
+    padding: 20px;
     color: gray;
-    margin-top: 10px;
+    margin-top: 30px;
     border-top: 1px solid gray;
     border-bottom: 1px solid gray;
     width: 90%;
+}
+
+.harrys-vs {
+    font-size: 6vw;
+    color: red;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-bottom: 2px solid black;
+    width: 100%;
+    padding: 70px;
+    margin-top: -20px;
+    font-weight: 800;
+    text-align: center;
+
 }
 
 .intro {
@@ -33,6 +55,7 @@ font-family: 'Karla', sans-serif !important;
 .harrys-rev {
     font-size: 3vw;
     margin-left: 5%;
+    margin-top: 50px;
 }
 
 .harry-intro {
@@ -62,6 +85,7 @@ font-family: 'Karla', sans-serif !important;
 }
 .harrys-btn:hover {
     text-decoration: underline;
+    border: 2px solid blue;
 }
 
 .bottom-btn {
@@ -139,6 +163,12 @@ font-family: 'Karla', sans-serif !important;
 
 .list-a {
     margin-top: 15px;
+    font-size: 30px !important;
+    font-weight: 900;
+}
+
+.list-a li{
+    margin-bottom: 20px;
 }
 
 .sub-text {
@@ -158,6 +188,7 @@ font-family: 'Karla', sans-serif !important;
     margin-left: 5%;
 }
 .overall-rev-title {
+    margin-top: 30px;
     font-size: 3vw;
     color: darkblue;
     margin-left: 5%;
